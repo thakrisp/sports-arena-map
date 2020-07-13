@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    border: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#map {
+    width: 100vw;
+    height: 100vh;
+    border: 0;
+    padding: 0;
+}
+
+.mapboxgl-popup-content {
+    background:#2c3e50 !important;
+    color: #DCDCDC;
+    font-size:16px;
+    line-height:24px;
+    }
