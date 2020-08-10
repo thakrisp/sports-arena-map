@@ -1,20 +1,23 @@
 {
-  "name": "nhlarenas",
+  "name": "mapping_arenas",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "devStart": "nodemon server.js"
+    "devStart": "nodemon server.js",
+    "pythonScripts": "node autoRun.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
     "express": "^4.17.1",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.19",
+    "mapbox": "^1.0.0-beta10",
+    "python-shell": "^2.0.1"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.4"
   }
 }
