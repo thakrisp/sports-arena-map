@@ -1,0 +1,263 @@
+[
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/44/American_Airlines_Arena%2C_Miami%2C_FL%2C_jjron_29.03.2012.jpg/250px-American_Airlines_Arena%2C_Miami%2C_FL%2C_jjron_29.03.2012.jpg",
+    "Team": "Miami Heat",
+    "Arena": "American Airlines Arena",
+    "Location": "Miami",
+    "Capacity": "19,600",
+    "opened": "1999",
+    "Coordinates": [25.781348, -80.1879725]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/American_Airlines_Center_August_2015.jpg/250px-American_Airlines_Center_August_2015.jpg",
+    "Team": "Dallas Mavericks",
+    "Arena": "American Airlines Center",
+    "Location": "Dallas",
+    "Capacity": "19,200",
+    "opened": "2001",
+    "Coordinates": [32.790229749999995, -96.81005225]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Amway_Center.jpg/250px-Amway_Center.jpg",
+    "Team": "Orlando Magic",
+    "Arena": "Amway Center",
+    "Location": "Orlando",
+    "Capacity": "18,846",
+    "opened": "2010",
+    "Coordinates": [28.5393265, -81.38374675]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Texasdd.JPG/250px-Texasdd.JPG",
+    "Team": "San Antonio Spurs",
+    "Arena": "AT&T Center",
+    "Location": "San Antonio",
+    "Capacity": "18,418",
+    "opened": "2002",
+    "Coordinates": [29.42706925, -98.43858825000001]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bankers_Life_Fieldhouse%2C_Indian%C3%A1polis%2C_Estados_Unidos%2C_2012-10-22%2C_DD_02.jpg/250px-Bankers_Life_Fieldhouse%2C_Indian%C3%A1polis%2C_Estados_Unidos%2C_2012-10-22%2C_DD_02.jpg",
+    "Team": "Indiana Pacers",
+    "Arena": "Bankers Life Fieldhouse",
+    "Location": "Indianapolis",
+    "Capacity": "17,923",
+    "opened": "1999",
+    "Coordinates": [39.763957500000004, -86.15557050000001]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Barclays_Center_western_side.jpg/250px-Barclays_Center_western_side.jpg",
+    "Team": "Brooklyn Nets",
+    "Arena": "Barclays Center",
+    "Location": "Brooklyn",
+    "Capacity": "17,732",
+    "opened": "2012",
+    "Coordinates": [40.683655, -73.97704875]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Verizon_Center_wide.jpg/250px-Verizon_Center_wide.jpg",
+    "Team": "Washington Wizards",
+    "Arena": "Capital One Arena",
+    "Location": "Washington",
+    "Capacity": "20,356",
+    "opened": "1997",
+    "Coordinates": [38.8981165, -77.0208245]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Chase_Center_-_East_Side_-_San_Francisco.jpg/250px-Chase_Center_-_East_Side_-_San_Francisco.jpg",
+    "Team": "Golden State Warriors",
+    "Arena": "Chase Center",
+    "Location": "San Francisco",
+    "Capacity": "18,064",
+    "opened": "2019",
+    "Coordinates": [37.7678485, -122.387426]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chesapeake_Energy_Arena_2017.jpg/250px-Chesapeake_Energy_Arena_2017.jpg",
+    "Team": "Oklahoma City Thunder",
+    "Arena": "Chesapeake Energy Arena",
+    "Location": "Oklahoma City",
+    "Capacity": "18,203",
+    "opened": "2002",
+    "Coordinates": [35.4634785, -97.5150595]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FedExForum.jpg/250px-FedExForum.jpg",
+    "Team": "Memphis Grizzlies",
+    "Arena": "FedExForum",
+    "Location": "Memphis",
+    "Capacity": "17,794",
+    "opened": "2004",
+    "Coordinates": [35.138411000000005, -90.050848]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wisconsin_Entertainment_and_Sports_Center_-_Northeast_view.jpg/250px-Wisconsin_Entertainment_and_Sports_Center_-_Northeast_view.jpg",
+    "Team": "Milwaukee Bucks",
+    "Arena": "Fiserv Forum",
+    "Location": "Milwaukee",
+    "Capacity": "17,500",
+    "opened": "2018",
+    "Coordinates": [43.0450745, -87.917498]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Golden_1_Center_2017.jpg/250px-Golden_1_Center_2017.jpg",
+    "Team": "Sacramento Kings",
+    "Arena": "Golden 1 Center",
+    "Location": "Sacramento",
+    "Capacity": "17,583",
+    "opened": "2016",
+    "Coordinates": [38.580022, -121.4998025]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Little_Caesars_Arena_panorama.jpg/250px-Little_Caesars_Arena_panorama.jpg",
+    "Team": "Detroit Pistons",
+    "Arena": "Little Caesars Arena",
+    "Location": "Detroit",
+    "Capacity": "20,332",
+    "opened": "2017",
+    "Coordinates": [42.341151499999995, -83.0550835]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Madison_Square_Garden%2C_February_2013.jpg/250px-Madison_Square_Garden%2C_February_2013.jpg",
+    "Team": "New York Knicks",
+    "Arena": "Madison Square Garden",
+    "Location": "New York City",
+    "Capacity": "19,812",
+    "opened": "1968",
+    "Coordinates": [40.75071525, -73.99374399999999]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Moda_Center.JPG/250px-Moda_Center.JPG",
+    "Team": "Portland Trail Blazers",
+    "Arena": "Moda Center",
+    "Location": "Portland",
+    "Capacity": "19,441",
+    "opened": "1995",
+    "Coordinates": [45.5317065, -122.6668535]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Denver_Pepsi_Center_1.jpg/250px-Denver_Pepsi_Center_1.jpg",
+    "Team": "Denver Nuggets",
+    "Arena": "Pepsi Center",
+    "Location": "Denver",
+    "Capacity": "19,520",
+    "opened": "1999",
+    "Coordinates": [39.7486095, -105.00753549999999]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Quicken_Loans_Arena_4.jpg/250px-Quicken_Loans_Arena_4.jpg",
+    "Team": "Cleveland Cavaliers",
+    "Arena": "Rocket Mortgage FieldHouse",
+    "Location": "Cleveland",
+    "Capacity": "19,432",
+    "opened": "1994",
+    "Coordinates": [41.496479, -81.6881325]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Scotiabank_Arena_-_2018_%28cropped%29.jpg/250px-Scotiabank_Arena_-_2018_%28cropped%29.jpg",
+    "Team": "Toronto Raptors",
+    "Arena": "Scotiabank Arena",
+    "Location": "Toronto",
+    "Capacity": "19,800",
+    "opened": "1999",
+    "Coordinates": [43.6433895, -79.3791035]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Smoothie_King_Center.jpg/250px-Smoothie_King_Center.jpg",
+    "Team": "New Orleans Pelicans",
+    "Arena": "Smoothie King Center",
+    "Location": "New Orleans",
+    "Capacity": "16,867",
+    "opened": "1999",
+    "Coordinates": [29.948946, -90.08192399999999]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Spectrum_Center_2018.jpg/250px-Spectrum_Center_2018.jpg",
+    "Team": "Charlotte Hornets",
+    "Arena": "Spectrum Center",
+    "Location": "Charlotte",
+    "Capacity": "19,077",
+    "opened": "2005",
+    "Coordinates": [35.225126, -80.839216]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Staples_Center_2012.jpg/250px-Staples_Center_2012.jpg",
+    "Team": "Los Angeles Clippers",
+    "Arena": "Staples Center",
+    "Location": "Los Angeles",
+    "Capacity": "19,068",
+    "opened": "1999",
+    "Coordinates": [34.0430705, -118.2672065]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Philips_Arena.jpg/250px-Philips_Arena.jpg",
+    "Team": "Atlanta Hawks",
+    "Arena": "State Farm Arena",
+    "Location": "Atlanta",
+    "Capacity": "18,118",
+    "opened": "1999",
+    "Coordinates": [33.757180500000004, -84.3963765]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Talking_Stick_Resort_Arena.JPG/250px-Talking_Stick_Resort_Arena.JPG",
+    "Team": "Phoenix Suns",
+    "Arena": "Talking Stick Resort Arena",
+    "Location": "Phoenix",
+    "Capacity": "18,055",
+    "opened": "1992",
+    "Coordinates": [33.445493375, -112.068361625]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/TargetCenter.jpg/250px-TargetCenter.jpg",
+    "Team": "Minnesota Timberwolves",
+    "Arena": "Target Center",
+    "Location": "Minneapolis",
+    "Capacity": "18,978",
+    "opened": "1990",
+    "Coordinates": [44.979453500000005, -93.276103]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TD_Garden_%28crop%29.JPG/250px-TD_Garden_%28crop%29.JPG",
+    "Team": "Boston Celtics",
+    "Arena": "TD Garden",
+    "Location": "Boston",
+    "Capacity": "18,624",
+    "opened": "1995",
+    "Coordinates": [42.366316, -71.0621905]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Toyota_Center_entr.jpg/250px-Toyota_Center_entr.jpg",
+    "Team": "Houston Rockets",
+    "Arena": "Toyota Center",
+    "Location": "Houston",
+    "Capacity": "18,055",
+    "opened": "2003",
+    "Coordinates": [29.75089, -95.36221499999999]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/47/United_Center_060716.jpg/250px-United_Center_060716.jpg",
+    "Team": "Chicago Bulls",
+    "Arena": "United Center",
+    "Location": "Chicago",
+    "Capacity": "20,917",
+    "opened": "1994",
+    "Coordinates": [41.880562, -87.674128]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vivint_Smart_Home_Arena_August_13%2C_2016.jpg/250px-Vivint_Smart_Home_Arena_August_13%2C_2016.jpg",
+    "Team": "Utah Jazz",
+    "Arena": "Vivint Smart Home Arena",
+    "Location": "Salt Lake City",
+    "Capacity": "18,306",
+    "opened": "1991",
+    "Coordinates": [40.768339499999996, -111.901088]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wells_Fargo_Center.jpg/250px-Wells_Fargo_Center.jpg",
+    "Team": "Philadelphia 76ers",
+    "Arena": "Wells Fargo Center",
+    "Location": "Philadelphia",
+    "Capacity": "20,478",
+    "opened": "1996",
+    "Coordinates": [39.9011165, -75.171908]
+  }
+]

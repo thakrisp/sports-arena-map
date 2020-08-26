@@ -4,36 +4,34 @@ if (process.env.NODE_ENV !== 'production') {
 
 const express = require('express');
 const app = express();
-const axios = require('axios');
-const _ = require('lodash');
 
 app.use(express.json());
 app.use(express.static('public'));
 
 const NHL = require('./Scripts/NHL.json');
 const NBA = require('./Scripts/NBA.json');
+// const NFL = require('./Scripts/NFL.json');
+// const MLB = require('./Scripts/MLB.json');
 
-app.get('/arenas', (req, res) => {
+app.get('/NHL', (req, res) => {
   res.header('content-Type', 'application/json');
   res.send(NHL);
 });
 
-// app.get('/arenas', (req, res) => {
-//   const url = `https://raw.github.com/nhlscorebot/arenas/master/teams.json`;
+app.get('/NBA', (req, res) => {
+  res.header('content-Type', 'application/json');
+  res.send(NBA);
+});
 
-//   axios({
-//     url: url,
-//     responseType: 'json',
-//   })
-//     .then(massageData)
-//     .then((array) => res.json(array));
+// app.get('/NFL', (req, res) => {
+//   res.header('content-Type', 'application/json');
+//   res.send(NFL);
 // });
 
-// function massageData(payload) {
-//   let a = payload.data;
-
-//   return _.map(_.keys(a), (k) => _.merge({ team: k }, a[k]));
-// }
+// app.get('/MLB', (req, res) => {
+//   res.header('content-Type', 'application/json');
+//   res.send(MLB);
+// });
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => {

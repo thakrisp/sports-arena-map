@@ -1,10 +1,11 @@
 body {
   background-color: black;
-  height: 100vh;
-  width: 100vw;
   border: 0;
   padding: 0;
+  width: 100vw;
+  height: 100vh;
   overflow: hidden;
+  z-index: -1;
 }
 
 #map {
@@ -12,6 +13,29 @@ body {
   height: 100vh;
   border: 0;
   padding: 0;
+  position: absolute;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.NBA_Marker {
+  height: 3.5em;
+  width: 3.5em;
+}
+
+.NBA_Marker svg {
+  fill: #17408b;
+  opacity: 75%;
+}
+
+.NHL_Marker {
+  height: 3em;
+  width: 3em;
+}
+.NHL_Marker svg {
+  fill: black;
 }
 
 .mapboxgl-popup-content {
@@ -22,6 +46,38 @@ body {
   text-align: center;
 }
 
-.mapboxgl-marker svg g {
-  fill: black;
+.map-selector {
+  background-color: grey;
+  color: white;
+  width: fit-content;
+  float: right;
+  padding: 10px;
+  border-radius: 10px;
+  position: relative;
+  z-index: 1;
+}
+
+.input {
+  background-color: white;
+  color: black;
+}
+
+.input-NHL:checked {
+  background-color: black !important;
+  color: black;
+}
+
+.input-NBA:checked {
+  background-color: #17408b !important;
+  color: black;
+}
+
+.input-NFL:checked {
+  background-color: #663300 !important;
+  color: black;
+}
+
+.input-MLB:checked {
+  background-color: #cd0001 !important;
+  color: black;
 }
