@@ -23,6 +23,7 @@ body {
 .NBA_Marker {
   height: 3.5em;
   width: 3.5em;
+  rotate: 90deg;
 }
 
 .NBA_Marker svg {
@@ -31,11 +32,20 @@ body {
 }
 
 .NHL_Marker {
-  height: 3em;
-  width: 3em;
+  height: 3.5em;
+  width: 3.5em;
 }
 .NHL_Marker svg {
   fill: black;
+}
+
+svg {
+  stroke: gray;
+  stroke-width: 0.25px;
+}
+
+svg:hover {
+  fill: slategray;
 }
 
 .mapboxgl-popup-content {
@@ -49,7 +59,7 @@ body {
 .map-selector {
   background-color: grey;
   color: white;
-  width: fit-content;
+  width: 6.5em;
   float: right;
   padding: 10px;
   border-radius: 10px;

@@ -32,9 +32,9 @@ function NHL_API(data) {
     var el = document.createElement('div');
     el.className = 'NHL_Marker';
     el.innerHTML =
-      '<svg viewBox="0 0 20 20" fill="currentColor" class="location-marker w-6 h-6"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>';
+      '<svg viewBox="0 0 20 20" transform="rotate(-90)" fill="currentColor" class="location-marker w-6 h-6"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>';
 
-    var marker = new mapboxgl.Marker(el)
+    new mapboxgl.Marker(el, { offset: [-20, 0] })
       .setLngLat([long, lat])
       .setPopup(
         new mapboxgl.Popup({ offset: 25 }).setHTML(
@@ -77,9 +77,9 @@ function NBA_API(data) {
     var el = document.createElement('div');
     el.className = 'NBA_Marker hidden';
     el.innerHTML =
-      '<svg viewBox="0 0 20 20" fill="currentColor" class="location-marker w-6 h-6"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>';
+      '<svg viewBox="0 0 20 20" transform="rotate(90)" fill="currentColor" class="location-marker w-6 h-6"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>';
 
-    new mapboxgl.Marker(el)
+    new mapboxgl.Marker(el, { offset: [15, 0] })
       .setLngLat([long, lat])
       .setPopup(
         new mapboxgl.Popup({ offset: 25 }).setHTML(
