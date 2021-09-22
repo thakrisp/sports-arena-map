@@ -2,3 +2,5 @@
 node_modules
 info
 .vscode
+config.py
+__pycache__

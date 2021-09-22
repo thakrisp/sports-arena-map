@@ -1,21 +1,12 @@
 [
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/44/American_Airlines_Arena%2C_Miami%2C_FL%2C_jjron_29.03.2012.jpg/250px-American_Airlines_Arena%2C_Miami%2C_FL%2C_jjron_29.03.2012.jpg",
-    "Team": "Miami Heat",
-    "Arena": "American Airlines Arena",
-    "Location": "Miami",
-    "Capacity": "19,600",
-    "opened": "1999",
-    "Coordinates": [25.781348, -80.1879725]
-  },
-  {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/American_Airlines_Center_August_2015.jpg/250px-American_Airlines_Center_August_2015.jpg",
     "Team": "Dallas Mavericks",
     "Arena": "American Airlines Center",
     "Location": "Dallas",
     "Capacity": "19,200",
     "opened": "2001",
-    "Coordinates": [32.790229749999995, -96.81005225]
+    "Coordinates": [32.790062500000005, -96.80985125000001]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Amway_Center.jpg/250px-Amway_Center.jpg",
@@ -24,7 +15,7 @@
     "Location": "Orlando",
     "Capacity": "18,846",
     "opened": "2010",
-    "Coordinates": [28.5393265, -81.38374675]
+    "Coordinates": [28.53945375, -81.38374225]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Texasdd.JPG/250px-Texasdd.JPG",
@@ -34,6 +25,15 @@
     "Capacity": "18,418",
     "opened": "2002",
     "Coordinates": [29.42706925, -98.43858825000001]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Denver_Pepsi_Center_1.jpg/250px-Denver_Pepsi_Center_1.jpg",
+    "Team": "Denver Nuggets",
+    "Arena": "Ball Arena",
+    "Location": "Denver",
+    "Capacity": "19,520",
+    "opened": "1999",
+    "Coordinates": [39.682079, -104.962311]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bankers_Life_Fieldhouse%2C_Indian%C3%A1polis%2C_Estados_Unidos%2C_2012-10-22%2C_DD_02.jpg/250px-Bankers_Life_Fieldhouse%2C_Indian%C3%A1polis%2C_Estados_Unidos%2C_2012-10-22%2C_DD_02.jpg",
@@ -72,15 +72,6 @@
     "Coordinates": [37.7678485, -122.387426]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chesapeake_Energy_Arena_2017.jpg/250px-Chesapeake_Energy_Arena_2017.jpg",
-    "Team": "Oklahoma City Thunder",
-    "Arena": "Chesapeake Energy Arena",
-    "Location": "Oklahoma City",
-    "Capacity": "18,203",
-    "opened": "2002",
-    "Coordinates": [35.4634785, -97.5150595]
-  },
-  {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FedExForum.jpg/250px-FedExForum.jpg",
     "Team": "Memphis Grizzlies",
     "Arena": "FedExForum",
@@ -97,6 +88,24 @@
     "Capacity": "17,500",
     "opened": "2018",
     "Coordinates": [43.0450745, -87.917498]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Talking_Stick_Resort_Arena.JPG/250px-Talking_Stick_Resort_Arena.JPG",
+    "Team": "Phoenix Suns",
+    "Arena": "Footprint Center",
+    "Location": "Phoenix",
+    "Capacity": "18,055",
+    "opened": "1992",
+    "Coordinates": [47.381469, 0.724678]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/44/American_Airlines_Arena%2C_Miami%2C_FL%2C_jjron_29.03.2012.jpg/250px-American_Airlines_Arena%2C_Miami%2C_FL%2C_jjron_29.03.2012.jpg",
+    "Team": "Miami Heat",
+    "Arena": "FTX Arena",
+    "Location": "Miami",
+    "Capacity": "19,600",
+    "opened": "1999",
+    "Coordinates": [25.745663, -80.192349]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Golden_1_Center_2017.jpg/250px-Golden_1_Center_2017.jpg",
@@ -117,13 +126,13 @@
     "Coordinates": [42.341151499999995, -83.0550835]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Madison_Square_Garden%2C_February_2013.jpg/250px-Madison_Square_Garden%2C_February_2013.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg/250px-Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg",
     "Team": "New York Knicks",
     "Arena": "Madison Square Garden",
     "Location": "New York City",
     "Capacity": "19,812",
     "opened": "1968",
-    "Coordinates": [40.75071525, -73.99374399999999]
+    "Coordinates": [40.750755, -73.993710125]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Moda_Center.JPG/250px-Moda_Center.JPG",
@@ -135,16 +144,16 @@
     "Coordinates": [45.5317065, -122.6668535]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Denver_Pepsi_Center_1.jpg/250px-Denver_Pepsi_Center_1.jpg",
-    "Team": "Denver Nuggets",
-    "Arena": "Pepsi Center",
-    "Location": "Denver",
-    "Capacity": "19,520",
-    "opened": "1999",
-    "Coordinates": [39.7486095, -105.00753549999999]
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chesapeake_Energy_Arena_2017.jpg/250px-Chesapeake_Energy_Arena_2017.jpg",
+    "Team": "Oklahoma City Thunder",
+    "Arena": "Paycom Center",
+    "Location": "Oklahoma City",
+    "Capacity": "18,203",
+    "opened": "2002",
+    "Coordinates": [35.611736, -97.648563]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Quicken_Loans_Arena_4.jpg/250px-Quicken_Loans_Arena_4.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rocket_Mortgage_FieldHouse_%282%29.jpg/250px-Rocket_Mortgage_FieldHouse_%282%29.jpg",
     "Team": "Cleveland Cavaliers",
     "Arena": "Rocket Mortgage FieldHouse",
     "Location": "Cleveland",
@@ -198,15 +207,6 @@
     "Coordinates": [33.757180500000004, -84.3963765]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Talking_Stick_Resort_Arena.JPG/250px-Talking_Stick_Resort_Arena.JPG",
-    "Team": "Phoenix Suns",
-    "Arena": "Talking Stick Resort Arena",
-    "Location": "Phoenix",
-    "Capacity": "18,055",
-    "opened": "1992",
-    "Coordinates": [33.445493375, -112.068361625]
-  },
-  {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/TargetCenter.jpg/250px-TargetCenter.jpg",
     "Team": "Minnesota Timberwolves",
     "Arena": "Target Center",
@@ -234,7 +234,7 @@
     "Coordinates": [29.75089, -95.36221499999999]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/47/United_Center_060716.jpg/250px-United_Center_060716.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/22/United_Center_1.jpg/250px-United_Center_1.jpg",
     "Team": "Chicago Bulls",
     "Arena": "United Center",
     "Location": "Chicago",
@@ -245,11 +245,11 @@
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Vivint_Smart_Home_Arena_August_13%2C_2016.jpg/250px-Vivint_Smart_Home_Arena_August_13%2C_2016.jpg",
     "Team": "Utah Jazz",
-    "Arena": "Vivint Smart Home Arena",
+    "Arena": "Vivint Arena",
     "Location": "Salt Lake City",
     "Capacity": "18,306",
     "opened": "1991",
-    "Coordinates": [40.768339499999996, -111.901088]
+    "Coordinates": [40.767, -111.8904]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wells_Fargo_Center.jpg/250px-Wells_Fargo_Center.jpg",

@@ -20,14 +20,16 @@ fetch('/NHL', {
 
 function NHL_API(data) {
   _.each(data, (entry) => {
-    image = entry.Image;
-    capacity = entry.Capacity;
-    firstSeason = entry['First Season'];
+    let image = entry.Image;
+    let capacity = entry.Capacity;
+    let firstSeason = entry['First Season'];
 
-    team = entry.Team;
-    arena = entry.Arena;
-    long = entry['Coordinates'][1].toFixed(4);
-    lat = entry['Coordinates'][0].toFixed(4);
+    let team = entry.Team;
+    let arena = entry.Arena;
+    let long = entry['Coordinates'][1].toFixed(4);
+    let lat = entry['Coordinates'][0].toFixed(4);
+
+    let url = arena.split(' ').join('_');
 
     var el = document.createElement('div');
     el.className = 'NHL_Marker';
@@ -40,10 +42,11 @@ function NHL_API(data) {
         new mapboxgl.Popup({ offset: 25 }).setHTML(
           `<div>
           <img src="${image}" alt="${arena}" width="200" height="100" class="arenaImg">
-          <div>The ${team}</div>
-          <div>Play in the ${arena}</div>
-          <div>Located at ${long} long and ${lat} lat</div>
-          <div> ${arena} has been around since <strong>${firstSeason}</strong> and hold ${capacity} seats.</div>
+          <div>The <strong>${team}</strong></div>
+          <div>Play in the <strong>${arena}</strong></div>
+          <div>Located at <strong>[${lat}, ${long}]</strong></div>
+          <div> ${arena} has been around since <strong>${firstSeason}</strong> and holds <strong>${capacity}</strong> seats.</div>
+          <div><a href="https://en.wikipedia.org/wiki/${url}">More Info on Wiki</a></div>
         </div>`
         )
       )

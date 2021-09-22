@@ -17,7 +17,17 @@
     "Capacity": "18,532",
     "opened": "2001",
     "First Season": "2001-02",
-    "Coordinates": [32.790229749999995, -96.81005225]
+    "Coordinates": [32.790062500000005, -96.80985125000001]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Denver_Pepsi_Center_1.jpg/250px-Denver_Pepsi_Center_1.jpg",
+    "Team": "Colorado Avalanche",
+    "Arena": "Ball Arena",
+    "Location": "Denver",
+    "Capacity": "17,809",
+    "opened": "1999",
+    "First Season": "1999-2000",
+    "Coordinates": [39.682079, -104.962311]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BankAtlanticCenterCrop.JPG/250px-BankAtlanticCenterCrop.JPG",
@@ -40,16 +50,6 @@
     "Coordinates": [45.4960725, -73.5693785]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTS_CENTRE_b.jpg/250px-MTS_CENTRE_b.jpg",
-    "Team": "Winnipeg Jets",
-    "Arena": "Bell MTS Place",
-    "Location": "Winnipeg",
-    "Capacity": "15,321",
-    "opened": "2004",
-    "First Season": "2011-12",
-    "Coordinates": [49.89344, -97.141121]
-  },
-  {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/WTN_EVula_053.jpg/250px-WTN_EVula_053.jpg",
     "Team": "Nashville Predators",
     "Arena": "Bridgestone Arena",
@@ -58,6 +58,16 @@
     "opened": "1996",
     "First Season": "1998-99",
     "Coordinates": [36.1591385, -86.7784865]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTS_CENTRE_b.jpg/250px-MTS_CENTRE_b.jpg",
+    "Team": "Winnipeg Jets",
+    "Arena": "Canada Life Centre",
+    "Location": "Winnipeg",
+    "Capacity": "15,321",
+    "opened": "2004",
+    "First Season": "2011-12",
+    "Coordinates": [49.895537, -97.138458]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Canadian_Tire_Centre_Ottawa.jpg/250px-Canadian_Tire_Centre_Ottawa.jpg",
@@ -80,11 +90,21 @@
     "Coordinates": [38.8981165, -77.0208245]
   },
   {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/KeyArena_%282890740573%29.jpg/250px-KeyArena_%282890740573%29.jpg",
+    "Team": "Seattle Kraken",
+    "Arena": "Climate Pledge Arena",
+    "Location": "Seattle",
+    "Capacity": "17,100",
+    "opened": "1962\u00a7",
+    "First Season": "2021-22",
+    "Coordinates": [47.622161500000004, -122.3540775]
+  },
+  {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Scottrade_Center_3Apr2005.jpg/250px-Scottrade_Center_3Apr2005.jpg",
     "Team": "St. Louis Blues",
     "Arena": "Enterprise Center",
     "Location": "St. Louis",
-    "Capacity": "18,724",
+    "Capacity": "18,096",
     "opened": "1994",
     "First Season": "1994-95",
     "Coordinates": [38.626713499999994, -90.2026245]
@@ -117,7 +137,7 @@
     "Capacity": "19,070",
     "opened": "1996",
     "First Season": "1996-97",
-    "Coordinates": [42.864287, -78.753509]
+    "Coordinates": [42.871644, -78.802846]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Little_Caesars_Arena_panorama.jpg/250px-Little_Caesars_Arena_panorama.jpg",
@@ -130,24 +150,14 @@
     "Coordinates": [42.341151499999995, -83.0550835]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Madison_Square_Garden%2C_2005.jpg/250px-Madison_Square_Garden%2C_2005.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg/250px-Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg",
     "Team": "New York Rangers",
     "Arena": "Madison Square Garden",
-    "Location": "New York",
+    "Location": "New York City",
     "Capacity": "18,006",
     "opened": "1968",
     "First Season": "1967-68",
-    "Coordinates": [40.75071525, -73.99374399999999]
-  },
-  {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/40/NVMC_1.jpg/250px-NVMC_1.jpg",
-    "Team": "New York Islanders",
-    "Arena": "Nassau Coliseum",
-    "Location": "Uniondale",
-    "Capacity": "13,917",
-    "opened": "1972",
-    "First Season": "1972-73",
-    "Coordinates": [40.722939499999995, -73.59064000000001]
+    "Coordinates": [40.750755, -73.993710125]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Columbus-ohio-nationwide-arena.jpg/250px-Columbus-ohio-nationwide-arena.jpg",
@@ -158,16 +168,6 @@
     "opened": "2000",
     "First Season": "2000-01",
     "Coordinates": [39.969288, -83.0060235]
-  },
-  {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Denver_Pepsi_Center_1.jpg/250px-Denver_Pepsi_Center_1.jpg",
-    "Team": "Colorado Avalanche",
-    "Arena": "Pepsi Center",
-    "Location": "Denver",
-    "Capacity": "17,809",
-    "opened": "1999",
-    "First Season": "1999-2000",
-    "Coordinates": [39.7486095, -105.00753549999999]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PNC_Arena_Raleigh.JPG/250px-PNC_Arena_Raleigh.JPG",
@@ -220,6 +220,16 @@
     "Coordinates": [53.546962, -113.4977475]
   },
   {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/54/SAP_Center_%2816609288898%29.jpg/250px-SAP_Center_%2816609288898%29.jpg",
+    "Team": "San Jose Sharks",
+    "Arena": "SAP Center",
+    "Location": "San Jose",
+    "Capacity": "17,562",
+    "opened": "1993",
+    "First Season": "1993-94",
+    "Coordinates": [37.332866499999994, -121.901202]
+  },
+  {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Scotiabank_Arena_-_2018_%28cropped%29.jpg/250px-Scotiabank_Arena_-_2018_%28cropped%29.jpg",
     "Team": "Toronto Maple Leafs",
     "Arena": "Scotiabank Arena",
@@ -238,16 +248,6 @@
     "opened": "1983",
     "First Season": "1983-84",
     "Coordinates": [51.03787, -114.052091]
-  },
-  {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/54/SAP_Center_%2816609288898%29.jpg/250px-SAP_Center_%2816609288898%29.jpg",
-    "Team": "San Jose Sharks",
-    "Arena": "SAP Center",
-    "Location": "San Jose",
-    "Capacity": "17,562",
-    "opened": "1993",
-    "First Season": "1993-94",
-    "Coordinates": [37.332866499999994, -121.901202]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Staplescenter.jpg/250px-Staplescenter.jpg",
@@ -280,7 +280,17 @@
     "Coordinates": [36.1028325, -115.1782595]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/47/United_Center_060716.jpg/250px-United_Center_060716.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/41/UBS_Arena_20201210_155556_1.jpg/250px-UBS_Arena_20201210_155556_1.jpg",
+    "Team": "New York Islanders",
+    "Arena": "UBS Arena",
+    "Location": "Elmont",
+    "Capacity": "17,113",
+    "opened": "2021",
+    "First Season": "2021-22",
+    "Coordinates": [42.3522125, -71.11785499999999]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/22/United_Center_1.jpg/250px-United_Center_1.jpg",
     "Team": "Chicago Blackhawks",
     "Arena": "United Center",
     "Location": "Chicago",
