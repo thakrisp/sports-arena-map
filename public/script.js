@@ -6,6 +6,14 @@ $('#NBA_Toggle').click(function (e) {
   $('.NBA_Marker').toggleClass('hidden', !this.checked);
 });
 
+$('#NFL_Toggle').click(function (e) {
+  $('.NFL_Marker').toggleClass('hidden', !this.checked);
+});
+
+$('#MLB_Toggle').click(function (e) {
+  $('.MLB_Marker').toggleClass('hidden', !this.checked);
+});
+
 fetch('/NHL', {
   method: 'GET',
   headers: {
@@ -83,6 +91,96 @@ function NBA_API(data) {
       '<svg viewBox="0 0 20 20" transform="rotate(90)" fill="currentColor" class="location-marker w-6 h-6"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>';
 
     new mapboxgl.Marker(el, { offset: [15, 0] })
+      .setLngLat([long, lat])
+      .setPopup(
+        new mapboxgl.Popup({ offset: 25 }).setHTML(
+          `<div>
+          <img src="${image}" alt="${arena}" width="200" height="100" class="arenaImg">
+          <div>The ${team}</div>
+          <div>Play in the ${arena}</div>
+          <div>Located at ${long} long and ${lat} lat</div>
+          <div> ${arena} has been around since <strong>${firstSeason}</strong> and hold ${capacity} seats.</div>
+        </div>`
+        )
+      )
+      .addTo(map);
+  });
+}
+
+fetch('/NFL', {
+  method: 'GET',
+  headers: {
+    'Content-Type': 'application/json',
+    Accept: 'application/json',
+  },
+})
+  .then((res) => res.json())
+  .then((data) => {
+    NFL_API(data);
+  });
+
+function NFL_API(data) {
+  _.each(data, (entry) => {
+    image = entry.Image;
+    capacity = entry.Capacity;
+    firstSeason = entry['opened'];
+
+    team = entry.Team;
+    arena = entry.Arena;
+    long = entry['Coordinates'][1].toFixed(4);
+    lat = entry['Coordinates'][0].toFixed(4);
+
+    var el = document.createElement('div');
+    el.className = 'NFL_Marker hidden';
+    el.innerHTML =
+      '<svg viewBox="0 0 20 20" fill="currentColor" class="location-marker w-6 h-6"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>';
+
+    new mapboxgl.Marker(el, { offset: [0, -15] })
+      .setLngLat([long, lat])
+      .setPopup(
+        new mapboxgl.Popup({ offset: 25 }).setHTML(
+          `<div>
+          <img src="${image}" alt="${arena}" width="200" height="100" class="arenaImg">
+          <div>The ${team}</div>
+          <div>Play in the ${arena}</div>
+          <div>Located at ${long} long and ${lat} lat</div>
+          <div> ${arena} has been around since <strong>${firstSeason}</strong> and hold ${capacity} seats.</div>
+        </div>`
+        )
+      )
+      .addTo(map);
+  });
+}
+
+fetch('/MLB', {
+  method: 'GET',
+  headers: {
+    'Content-Type': 'application/json',
+    Accept: 'application/json',
+  },
+})
+  .then((res) => res.json())
+  .then((data) => {
+    MLB_API(data);
+  });
+
+function MLB_API(data) {
+  _.each(data, (entry) => {
+    image = entry.Image;
+    capacity = entry.Capacity;
+    firstSeason = entry['opened'];
+
+    team = entry.Team;
+    arena = entry.Arena;
+    long = entry['Coordinates'][1].toFixed(4);
+    lat = entry['Coordinates'][0].toFixed(4);
+
+    var el = document.createElement('div');
+    el.className = 'MLB_Marker hidden';
+    el.innerHTML =
+      '<svg viewBox="0 0 20 20" transform="rotate(180)" fill="currentColor" class="location-marker w-6 h-6"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>';
+
+    new mapboxgl.Marker(el, { offset: [0, 15] })
       .setLngLat([long, lat])
       .setPopup(
         new mapboxgl.Popup({ offset: 25 }).setHTML(

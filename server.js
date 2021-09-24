@@ -10,8 +10,8 @@ app.use(express.static('public'));
 
 const NHL = require('./Scripts/NHL.json');
 const NBA = require('./Scripts/NBA.json');
-// const NFL = require('./Scripts/NFL.json');
-// const MLB = require('./Scripts/MLB.json');
+const NFL = require('./Scripts/NFL.json');
+const MLB = require('./Scripts/MLB.json');
 
 app.get('/NHL', (req, res) => {
   res.header('content-Type', 'application/json');
@@ -23,15 +23,15 @@ app.get('/NBA', (req, res) => {
   res.send(NBA);
 });
 
-// app.get('/NFL', (req, res) => {
-//   res.header('content-Type', 'application/json');
-//   res.send(NFL);
-// });
+app.get('/NFL', (req, res) => {
+  res.header('content-Type', 'application/json');
+  res.send(NFL);
+});
 
-// app.get('/MLB', (req, res) => {
-//   res.header('content-Type', 'application/json');
-//   res.send(MLB);
-// });
+app.get('/MLB', (req, res) => {
+  res.header('content-Type', 'application/json');
+  res.send(MLB);
+});
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => {

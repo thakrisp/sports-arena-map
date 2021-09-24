@@ -20,10 +20,12 @@ body {
   visibility: hidden;
 }
 
-.NBA_Marker {
+.NBA_Marker,
+.NHL_Marker,
+.NFL_Marker,
+.MLB_Marker {
   height: 3.5em;
   width: 3.5em;
-  rotate: 90deg;
 }
 
 .NBA_Marker svg {
@@ -31,12 +33,16 @@ body {
   opacity: 75%;
 }
 
-.NHL_Marker {
-  height: 3.5em;
-  width: 3.5em;
-}
 .NHL_Marker svg {
   fill: black;
+}
+
+.NFL_Marker svg {
+  fill: #825736;
+}
+
+.MLB_Marker svg {
+  fill: white;
 }
 
 svg {
