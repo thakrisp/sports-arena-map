@@ -3,320 +3,320 @@
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/St_Pete_Times_Forum_At_Sunset.jpg/250px-St_Pete_Times_Forum_At_Sunset.jpg",
     "Team": "Tampa Bay Lightning",
     "Arena": "Amalie Arena",
-    "Location": "Tampa",
+    "Location": "Tampa, Florida",
     "Capacity": "19,092",
     "opened": "1996",
     "First Season": "1996-97",
-    "Coordinates": [27.9428245, -82.4519325]
+    "Coordinates": [27.9427373, -82.4517771]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/American_Airlines_Center_August_2015.jpg/250px-American_Airlines_Center_August_2015.jpg",
     "Team": "Dallas Stars",
     "Arena": "American Airlines Center",
-    "Location": "Dallas",
+    "Location": "Dallas, Texas",
     "Capacity": "18,532",
     "opened": "2001",
     "First Season": "2001-02",
-    "Coordinates": [32.790062500000005, -96.80985125000001]
+    "Coordinates": [32.7903908, -96.8102547]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Denver_Pepsi_Center_1.jpg/250px-Denver_Pepsi_Center_1.jpg",
     "Team": "Colorado Avalanche",
     "Arena": "Ball Arena",
-    "Location": "Denver",
+    "Location": "Denver, Colorado",
     "Capacity": "17,809",
     "opened": "1999",
     "First Season": "1999-2000",
-    "Coordinates": [39.682079, -104.962311]
+    "Coordinates": [39.7486565, -105.0076028]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Centerbell.jpg/250px-Centerbell.jpg",
     "Team": "Montreal Canadiens",
     "Arena": "Bell Centre",
-    "Location": "Montreal",
+    "Location": "Montreal, Quebec",
     "Capacity": "21,302",
     "opened": "1996",
     "First Season": "1995-96",
-    "Coordinates": [45.4960725, -73.5693785]
+    "Coordinates": [45.4960667, -73.5693153]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/WTN_EVula_053.jpg/250px-WTN_EVula_053.jpg",
     "Team": "Nashville Predators",
     "Arena": "Bridgestone Arena",
-    "Location": "Nashville",
+    "Location": "Nashville, Tennessee",
     "Capacity": "17,113",
     "opened": "1996",
     "First Season": "1998-99",
-    "Coordinates": [36.1591385, -86.7784865]
+    "Coordinates": [36.1591736, -86.7784959]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/MTS_CENTRE_b.jpg/250px-MTS_CENTRE_b.jpg",
     "Team": "Winnipeg Jets",
     "Arena": "Canada Life Centre",
-    "Location": "Winnipeg",
+    "Location": "Winnipeg, Manitoba",
     "Capacity": "15,321",
     "opened": "2004",
     "First Season": "2011-12",
-    "Coordinates": [49.895537, -97.138458]
+    "Coordinates": [49.8926443, -97.14376240000001]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Canadian_Tire_Centre_Ottawa.jpg/250px-Canadian_Tire_Centre_Ottawa.jpg",
     "Team": "Ottawa Senators",
     "Arena": "Canadian Tire Centre",
-    "Location": "Ottawa",
+    "Location": "Ottawa, Ontario",
     "Capacity": "17,373",
     "opened": "1996",
     "First Season": "1995-96",
-    "Coordinates": [45.296949, -75.927254]
+    "Coordinates": [45.2969151, -75.926823]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Verizon_Center_wide.jpg/250px-Verizon_Center_wide.jpg",
     "Team": "Washington Capitals",
     "Arena": "Capital One Arena",
-    "Location": "Washington",
+    "Location": "Washington, D.C.",
     "Capacity": "18,506",
     "opened": "1997",
     "First Season": "1997-98",
-    "Coordinates": [38.8981165, -77.0208245]
+    "Coordinates": [38.8981675, -77.02085679999999]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/KeyArena_%282890740573%29.jpg/250px-KeyArena_%282890740573%29.jpg",
     "Team": "Seattle Kraken",
     "Arena": "Climate Pledge Arena",
-    "Location": "Seattle",
+    "Location": "Seattle, Washington",
     "Capacity": "17,100",
     "opened": "1962\u00a7",
     "First Season": "2021-22",
-    "Coordinates": [47.622161500000004, -122.3540775]
+    "Coordinates": [47.62207129999999, -122.3540714]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Scottrade_Center_3Apr2005.jpg/250px-Scottrade_Center_3Apr2005.jpg",
     "Team": "St. Louis Blues",
     "Arena": "Enterprise Center",
-    "Location": "St. Louis",
+    "Location": "St. Louis, Missouri",
     "Capacity": "18,096",
     "opened": "1994",
     "First Season": "1994-95",
-    "Coordinates": [38.626713499999994, -90.2026245]
+    "Coordinates": [38.6268402, -90.20267830000002]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BankAtlanticCenterCrop.JPG/250px-BankAtlanticCenterCrop.JPG",
     "Team": "Florida Panthers",
     "Arena": "FLA Live Arena",
-    "Location": "Sunrise",
+    "Location": "Sunrise, Florida",
     "Capacity": "19,250",
     "opened": "1998",
     "First Season": "1998-99",
-    "Coordinates": [26.143183, -80.237747]
+    "Coordinates": [26.1584958, -80.3255204]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Glendale-arena.jpg/250px-Glendale-arena.jpg",
     "Team": "Arizona Coyotes",
     "Arena": "Gila River Arena",
-    "Location": "Glendale",
+    "Location": "Glendale, Arizona",
     "Capacity": "17,125",
     "opened": "2003",
     "First Season": "2003-04",
-    "Coordinates": [33.53184875, -112.2612665]
+    "Coordinates": [33.532074, -112.2612163]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Honda-ext-arch.JPG/250px-Honda-ext-arch.JPG",
     "Team": "Anaheim Ducks",
     "Arena": "Honda Center",
-    "Location": "Anaheim",
+    "Location": "Anaheim, California",
     "Capacity": "17,174",
     "opened": "1993",
     "First Season": "1993-94",
-    "Coordinates": [33.807835, -117.87665899999999]
+    "Coordinates": [33.8078476, -117.8764687]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/First_Niagara_Center_front.jpg/250px-First_Niagara_Center_front.jpg",
     "Team": "Buffalo Sabres",
     "Arena": "KeyBank Center",
-    "Location": "Buffalo",
+    "Location": "Buffalo, New York",
     "Capacity": "19,070",
     "opened": "1996",
     "First Season": "1996-97",
-    "Coordinates": [42.871644, -78.802846]
+    "Coordinates": [42.8750811, -78.8765439]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Little_Caesars_Arena_panorama.jpg/250px-Little_Caesars_Arena_panorama.jpg",
     "Team": "Detroit Red Wings",
     "Arena": "Little Caesars Arena",
-    "Location": "Detroit",
+    "Location": "Detroit, Michigan",
     "Capacity": "19,515",
     "opened": "2017",
     "First Season": "2017-18",
-    "Coordinates": [42.341151499999995, -83.0550835]
+    "Coordinates": [42.3411026, -83.0552673]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg/250px-Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg",
     "Team": "New York Rangers",
     "Arena": "Madison Square Garden",
-    "Location": "New York City",
+    "Location": "New York City, New York",
     "Capacity": "18,006",
     "opened": "1968",
     "First Season": "1967-68",
-    "Coordinates": [40.750755, -73.993710125]
+    "Coordinates": [40.7505045, -73.9934387]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Columbus-ohio-nationwide-arena.jpg/250px-Columbus-ohio-nationwide-arena.jpg",
     "Team": "Columbus Blue Jackets",
     "Arena": "Nationwide Arena",
-    "Location": "Columbus",
+    "Location": "Columbus, Ohio",
     "Capacity": "18,144",
     "opened": "2000",
     "First Season": "2000-01",
-    "Coordinates": [39.969288, -83.0060235]
+    "Coordinates": [39.9692072, -83.0060483]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PNC_Arena_Raleigh.JPG/250px-PNC_Arena_Raleigh.JPG",
     "Team": "Carolina Hurricanes",
     "Arena": "PNC Arena",
-    "Location": "Raleigh",
+    "Location": "Raleigh, North Carolina",
     "Capacity": "18,680",
     "opened": "1999",
     "First Season": "1999-2000",
-    "Coordinates": [35.80327, -78.72212099999999]
+    "Coordinates": [35.803329, -78.7218018]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Consol_Energy_Center_March_2010.jpg/250px-Consol_Energy_Center_March_2010.jpg",
     "Team": "Pittsburgh Penguins",
     "Arena": "PPG Paints Arena",
-    "Location": "Pittsburgh",
+    "Location": "Pittsburgh, Pennsylvania",
     "Capacity": "18,387",
     "opened": "2010",
     "First Season": "2010-11",
-    "Coordinates": [40.4394905, -79.989342]
+    "Coordinates": [40.4393097, -79.98955289999999]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pudcentnewarkjeh.JPG/250px-Pudcentnewarkjeh.JPG",
     "Team": "New Jersey Devils",
     "Arena": "Prudential Center",
-    "Location": "Newark",
+    "Location": "Newark, New Jersey",
     "Capacity": "16,514",
     "opened": "2007",
     "First Season": "2007-08",
-    "Coordinates": [40.7336095, -74.171133]
+    "Coordinates": [40.733537, -74.1710659]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Rogers_Arena.jpg/250px-Rogers_Arena.jpg",
     "Team": "Vancouver Canucks",
     "Arena": "Rogers Arena",
-    "Location": "Vancouver",
+    "Location": "Vancouver, British Columbia",
     "Capacity": "18,910",
     "opened": "1995",
     "First Season": "1995-96",
-    "Coordinates": [49.2778505, -123.108806]
+    "Coordinates": [49.2778358, -123.1088227]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rogers_Place_Arena.jpg/250px-Rogers_Place_Arena.jpg",
     "Team": "Edmonton Oilers",
     "Arena": "Rogers Place",
-    "Location": "Edmonton",
+    "Location": "Edmonton, Alberta",
     "Capacity": "18,347",
     "opened": "2016",
     "First Season": "2016-17",
-    "Coordinates": [53.546962, -113.4977475]
+    "Coordinates": [53.54697549999999, -113.4978004]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/54/SAP_Center_%2816609288898%29.jpg/250px-SAP_Center_%2816609288898%29.jpg",
     "Team": "San Jose Sharks",
     "Arena": "SAP Center",
-    "Location": "San Jose",
+    "Location": "San Jose, California",
     "Capacity": "17,562",
     "opened": "1993",
     "First Season": "1993-94",
-    "Coordinates": [37.332866499999994, -121.901202]
+    "Coordinates": [37.3327507, -121.9012447]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Scotiabank_Arena_-_2018_%28cropped%29.jpg/250px-Scotiabank_Arena_-_2018_%28cropped%29.jpg",
     "Team": "Toronto Maple Leafs",
     "Arena": "Scotiabank Arena",
-    "Location": "Toronto",
+    "Location": "Toronto, Ontario",
     "Capacity": "18,819",
     "opened": "1999",
     "First Season": "1998-99",
-    "Coordinates": [43.6433895, -79.3791035]
+    "Coordinates": [43.6434661, -79.3790989]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2020_Calgary_Saddledome.jpg/250px-2020_Calgary_Saddledome.jpg",
     "Team": "Calgary Flames",
     "Arena": "Scotiabank Saddledome",
-    "Location": "Calgary",
+    "Location": "Calgary, Alberta",
     "Capacity": "19,289",
     "opened": "1983",
     "First Season": "1983-84",
-    "Coordinates": [51.03787, -114.052091]
+    "Coordinates": [51.0374336, -114.0519341]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Staplescenter.jpg/250px-Staplescenter.jpg",
     "Team": "Los Angeles Kings",
     "Arena": "Staples Center",
-    "Location": "Los Angeles",
+    "Location": "Los Angeles, California",
     "Capacity": "18,230",
     "opened": "1999",
     "First Season": "1999-2000",
-    "Coordinates": [34.0430705, -118.2672065]
+    "Coordinates": [34.0430175, -118.2672541]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TD_Garden_%28crop%29.JPG/250px-TD_Garden_%28crop%29.JPG",
     "Team": "Boston Bruins",
     "Arena": "TD Garden",
-    "Location": "Boston",
+    "Location": "Boston, Massachusetts",
     "Capacity": "17,565",
     "opened": "1995",
     "First Season": "1995-96",
-    "Coordinates": [42.366316, -71.0621905]
+    "Coordinates": [42.366198, -71.062146]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/T_Mobile_Arena_The_Strip_Las_Vegas_%2829798246202%29.jpg/250px-T_Mobile_Arena_The_Strip_Las_Vegas_%2829798246202%29.jpg",
     "Team": "Vegas Golden Knights",
     "Arena": "T-Mobile Arena",
-    "Location": "Paradise",
+    "Location": "Paradise, Nevada",
     "Capacity": "17,368",
     "opened": "2016",
     "First Season": "2017-18",
-    "Coordinates": [36.1028325, -115.1782595]
+    "Coordinates": [36.1031582, -115.1787806]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/41/UBS_Arena_20201210_155556_1.jpg/250px-UBS_Arena_20201210_155556_1.jpg",
     "Team": "New York Islanders",
     "Arena": "UBS Arena",
-    "Location": "Elmont",
+    "Location": "Elmont, New York",
     "Capacity": "17,113",
     "opened": "2021",
     "First Season": "2021-22",
-    "Coordinates": [42.3522125, -71.11785499999999]
+    "Coordinates": [40.7117992, -73.72619399999999]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/22/United_Center_1.jpg/250px-United_Center_1.jpg",
     "Team": "Chicago Blackhawks",
     "Arena": "United Center",
-    "Location": "Chicago",
+    "Location": "Chicago, Illinois",
     "Capacity": "19,717",
     "opened": "1994",
     "First Season": "1994-95",
-    "Coordinates": [41.880562, -87.674128]
+    "Coordinates": [41.8806908, -87.6741759]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wells_Fargo_Center.jpg/250px-Wells_Fargo_Center.jpg",
     "Team": "Philadelphia Flyers",
     "Arena": "Wells Fargo Center",
-    "Location": "Philadelphia",
+    "Location": "Philadelphia, Pennsylvania",
     "Capacity": "19,543",
     "opened": "1996",
     "First Season": "1996-97",
-    "Coordinates": [39.9011165, -75.171908]
+    "Coordinates": [39.9012015, -75.17197949999999]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/8/84/XcelEnergyCenteroverview.jpg/250px-XcelEnergyCenteroverview.jpg",
     "Team": "Minnesota Wild",
     "Arena": "Xcel Energy Center",
-    "Location": "Saint Paul",
+    "Location": "Saint Paul, Minnesota",
     "Capacity": "17,954",
     "opened": "2000",
     "First Season": "2000-01",
-    "Coordinates": [44.944703000000004, -93.101031]
+    "Coordinates": [44.944596, -93.100167]
   }
 ]

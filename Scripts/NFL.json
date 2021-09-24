@@ -5,7 +5,7 @@
     "Arena": "Allegiant Stadium",
     "Location": "Paradise, Nevada",
     "Surface": "Bermuda grass",
-    "Roof Typr": "Fixed",
+    "Roof Type": "Fixed",
     "Capacity": "71,835",
     "opened": "2020",
     "Coordinates": [36.0908665, -115.1833222]
@@ -16,7 +16,7 @@
     "Arena": "Arrowhead Stadium",
     "Location": "Kansas City, Missouri",
     "Surface": "Bermuda grass",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "76,416",
     "opened": "1972",
     "Coordinates": [39.04893910000001, -94.4839157]
@@ -27,7 +27,7 @@
     "Arena": "AT&T Stadium",
     "Location": "Arlington, Texas",
     "Surface": "Hellas Matrix Turf",
-    "Roof Typr": "Retractable",
+    "Roof Type": "Retractable",
     "Capacity": "80,000",
     "opened": "2009",
     "Coordinates": [32.7472844, -97.09449389999999]
@@ -38,7 +38,7 @@
     "Arena": "Bank of America Stadium",
     "Location": "Charlotte, North Carolina",
     "Surface": "FieldTurf",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "75,523",
     "opened": "1996",
     "Coordinates": [35.2257795, -80.852965]
@@ -49,7 +49,7 @@
     "Arena": "Caesars Superdome",
     "Location": "New Orleans, Louisiana",
     "Surface": "FieldTurf",
-    "Roof Typr": "Fixed",
+    "Roof Type": "Fixed",
     "Capacity": "73,208",
     "opened": "1975",
     "Coordinates": [29.951061, -90.0812442]
@@ -60,7 +60,7 @@
     "Arena": "Empower Field at Mile High",
     "Location": "Denver, Colorado",
     "Surface": "Kentucky bluegrass",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "76,125",
     "opened": "2001",
     "Coordinates": [39.7438895, -105.0201094]
@@ -71,7 +71,7 @@
     "Arena": "FedExField",
     "Location": "Landover, Maryland",
     "Surface": "Bermuda grass",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "82,000",
     "opened": "1997",
     "Coordinates": [38.9076433, -76.8645454]
@@ -82,7 +82,7 @@
     "Arena": "FirstEnergy Stadium",
     "Location": "Cleveland, Ohio",
     "Surface": "Kentucky bluegrass",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "67,895",
     "opened": "1999",
     "Coordinates": [41.5060535, -81.6995481]
@@ -93,7 +93,7 @@
     "Arena": "Ford Field",
     "Location": "Detroit, Michigan",
     "Surface": "FieldTurf",
-    "Roof Typr": "Fixed",
+    "Roof Type": "Fixed",
     "Capacity": "65,000",
     "opened": "2002",
     "Coordinates": [42.3400064, -83.045603]
@@ -104,7 +104,7 @@
     "Arena": "Gillette Stadium",
     "Location": "Foxborough, Massachusetts",
     "Surface": "FieldTurf",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "66,829",
     "opened": "2002",
     "Coordinates": [42.0909458, -71.2643465]
@@ -115,7 +115,7 @@
     "Arena": "Hard Rock Stadium",
     "Location": "Miami Gardens, Florida",
     "Surface": "Platinum TE Paspalum",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "65,326",
     "opened": "1987",
     "Coordinates": [25.9579665, -80.2388604]
@@ -126,7 +126,7 @@
     "Arena": "Heinz Field",
     "Location": "Pittsburgh, Pennsylvania",
     "Surface": "Kentucky bluegrass",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "68,400",
     "opened": "2001",
     "Coordinates": [40.4467648, -80.0157603]
@@ -137,7 +137,7 @@
     "Arena": "Highmark Stadium",
     "Location": "Orchard Park, New York",
     "Surface": "A-Turf Titan 50",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "71,608",
     "opened": "1973",
     "Coordinates": [42.7737546, -78.7869723]
@@ -148,7 +148,7 @@
     "Arena": "Lambeau Field",
     "Location": "Green Bay, Wisconsin",
     "Surface": "Desso GrassMaster",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "81,441",
     "opened": "1957",
     "Coordinates": [44.5013406, -88.06220830000001]
@@ -159,7 +159,7 @@
     "Arena": "Levi's Stadium",
     "Location": "Santa Clara, California",
     "Surface": "Bermuda grass",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "68,500",
     "opened": "2014",
     "Coordinates": [37.4031741, -121.9697129]
@@ -170,7 +170,7 @@
     "Arena": "Lincoln Financial Field",
     "Location": "Philadelphia, Pennsylvania",
     "Surface": "Desso GrassMaster",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "69,596",
     "opened": "2003",
     "Coordinates": [39.9007734, -75.16744349999999]
@@ -181,7 +181,7 @@
     "Arena": "Lucas Oil Stadium",
     "Location": "Indianapolis, Indiana",
     "Surface": "Shaw Sports Momentum Pro",
-    "Roof Typr": "Retractable",
+    "Roof Type": "Retractable",
     "Capacity": "67,000",
     "opened": "2008",
     "Coordinates": [39.7601007, -86.16388769999999]
@@ -192,7 +192,7 @@
     "Arena": "Lumen Field",
     "Location": "Seattle, Washington",
     "Surface": "FieldTurf",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "69,000",
     "opened": "2002",
     "Coordinates": [47.5951518, -122.3316394]
@@ -203,7 +203,7 @@
     "Arena": "M&T Bank Stadium",
     "Location": "Baltimore, Maryland",
     "Surface": "Bermuda grass",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "71,008",
     "opened": "1998",
     "Coordinates": [39.2779876, -76.6227044]
@@ -214,7 +214,7 @@
     "Arena": "Mercedes-Benz Stadium",
     "Location": "Atlanta, Georgia",
     "Surface": "FieldTurf",
-    "Roof Typr": "Retractable",
+    "Roof Type": "Retractable",
     "Capacity": "71,000",
     "opened": "2017",
     "Coordinates": [33.7555194, -84.4008389]
@@ -225,7 +225,7 @@
     "Arena": "MetLife Stadium",
     "Location": "East Rutherford, New Jersey",
     "Surface": "UBU Sports Speed Series S5-M Synthetic Turf",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "82,500",
     "opened": "2010",
     "Coordinates": [40.8135064, -74.074457]
@@ -236,7 +236,7 @@
     "Arena": "Nissan Stadium",
     "Location": "Nashville, Tennessee",
     "Surface": "Bermuda grass",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "69,143",
     "opened": "1999",
     "Coordinates": [36.166479, -86.77128979999999]
@@ -247,7 +247,7 @@
     "Arena": "NRG Stadium",
     "Location": "Houston, Texas",
     "Surface": "Hellas Matrix Turf",
-    "Roof Typr": "Retractable",
+    "Roof Type": "Retractable",
     "Capacity": "72,220",
     "opened": "2002",
     "Coordinates": [29.6847219, -95.41070739999999]
@@ -258,7 +258,7 @@
     "Arena": "Paul Brown Stadium",
     "Location": "Cincinnati, Ohio",
     "Surface": "UBU Speed Series S5-M Synthetic Turf",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "65,515",
     "opened": "2000",
     "Coordinates": [39.0954576, -84.51605769999999]
@@ -269,7 +269,7 @@
     "Arena": "Raymond James Stadium",
     "Location": "Tampa, Florida",
     "Surface": "Bermuda grass",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "65,890",
     "opened": "1998",
     "Coordinates": [27.9758691, -82.5033344]
@@ -280,7 +280,7 @@
     "Arena": "SoFi Stadium",
     "Location": "Inglewood, California",
     "Surface": "Hellas Matrix Turf",
-    "Roof Typr": "Fixed",
+    "Roof Type": "Fixed",
     "Capacity": "70,000",
     "opened": "2020",
     "Coordinates": [33.9534651, -118.3390396]
@@ -291,7 +291,7 @@
     "Arena": "Soldier Field",
     "Location": "Chicago, Illinois",
     "Surface": "Kentucky bluegrass",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "61,500",
     "opened": "1924",
     "Coordinates": [41.8623132, -87.6166884]
@@ -302,7 +302,7 @@
     "Arena": "State Farm Stadium",
     "Location": "Glendale, Arizona",
     "Surface": "Bermuda grass",
-    "Roof Typr": "Retractable",
+    "Roof Type": "Retractable",
     "Capacity": "63,400",
     "opened": "2006",
     "Coordinates": [33.5276247, -112.2625593]
@@ -313,7 +313,7 @@
     "Arena": "TIAA Bank Field",
     "Location": "Jacksonville, Florida",
     "Surface": "Bermuda grass",
-    "Roof Typr": "Open",
+    "Roof Type": "Open",
     "Capacity": "69,132",
     "opened": "1995",
     "Coordinates": [30.3239099, -81.6373497]
@@ -324,7 +324,7 @@
     "Arena": "U.S. Bank Stadium",
     "Location": "Minneapolis, Minnesota",
     "Surface": "UBU Speed Series S5-M Synthetic Turf",
-    "Roof Typr": "Fixed",
+    "Roof Type": "Fixed",
     "Capacity": "66,655",
     "opened": "2016",
     "Coordinates": [44.9736461, -93.25749449999999]
