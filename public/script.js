@@ -36,6 +36,7 @@ function NHL_API(data) {
     let arena = entry.Arena;
     let long = entry['Coordinates'][1].toFixed(4);
     let lat = entry['Coordinates'][0].toFixed(4);
+    let location = entry['Location'];
 
     let url = arena.split(' ').join('_');
 
@@ -51,7 +52,7 @@ function NHL_API(data) {
           `<div>
           <img src="${image}" alt="${arena}" width="200" height="100" class="arenaImg">
           <div>The <strong>${team}</strong></div>
-          <div>Play in the <strong>${arena}</strong></div>
+          <div>Play in the <strong>${arena}</strong> located in <strong>${location}</strong></div>
           <div>Located at <strong>[${lat}, ${long}]</strong></div>
           <div> ${arena} has been around since <strong>${firstSeason}</strong> and holds <strong>${capacity}</strong> seats.</div>
           <div><a href="https://en.wikipedia.org/wiki/${url}">More Info on Wiki</a></div>
@@ -76,14 +77,17 @@ fetch('/NBA', {
 
 function NBA_API(data) {
   _.each(data, (entry) => {
-    image = entry.Image;
-    capacity = entry.Capacity;
-    firstSeason = entry['opened'];
+    let image = entry.Image;
+    let capacity = entry.Capacity;
+    let firstSeason = entry['opened'];
 
-    team = entry.Team;
-    arena = entry.Arena;
-    long = entry['Coordinates'][1].toFixed(4);
-    lat = entry['Coordinates'][0].toFixed(4);
+    let team = entry.Team;
+    let arena = entry.Arena;
+    let long = entry['Coordinates'][1].toFixed(4);
+    let lat = entry['Coordinates'][0].toFixed(4);
+    let location = entry['Location'];
+
+    let url = arena.split(' ').join('_');
 
     var el = document.createElement('div');
     el.className = 'NBA_Marker hidden';
@@ -96,10 +100,11 @@ function NBA_API(data) {
         new mapboxgl.Popup({ offset: 25 }).setHTML(
           `<div>
           <img src="${image}" alt="${arena}" width="200" height="100" class="arenaImg">
-          <div>The ${team}</div>
-          <div>Play in the ${arena}</div>
-          <div>Located at ${long} long and ${lat} lat</div>
-          <div> ${arena} has been around since <strong>${firstSeason}</strong> and hold ${capacity} seats.</div>
+          <div>The <strong>${team}</strong></div>
+          <div>Play in the <strong>${arena}</strong> located in <strong>${location}</strong></div>
+          <div>Located at <strong>[${lat}, ${long}]</strong></div>
+          <div> ${arena} has been around since <strong>${firstSeason}</strong> and holds <strong>${capacity}</strong> seats.</div>
+          <div><a href="https://en.wikipedia.org/wiki/${url}">More Info on Wiki</a></div>
         </div>`
         )
       )
@@ -121,14 +126,19 @@ fetch('/NFL', {
 
 function NFL_API(data) {
   _.each(data, (entry) => {
-    image = entry.Image;
-    capacity = entry.Capacity;
-    firstSeason = entry['opened'];
+    let image = entry.Image;
+    let capacity = entry.Capacity;
+    let firstSeason = entry['opened'];
 
-    team = entry.Team;
-    arena = entry.Arena;
-    long = entry['Coordinates'][1].toFixed(4);
-    lat = entry['Coordinates'][0].toFixed(4);
+    let team = entry.Team;
+    let arena = entry.Arena;
+    let long = entry['Coordinates'][1].toFixed(4);
+    let lat = entry['Coordinates'][0].toFixed(4);
+    let location = entry['Location'];
+    let surface = entry['Surface'];
+    let roof = entry['Roof Type']; //TYPO ON THIS LINE, FIXED IN SCRIPT NEEDS TO BE RERUN
+
+    let url = arena.split(' ').join('_');
 
     var el = document.createElement('div');
     el.className = 'NFL_Marker hidden';
@@ -141,10 +151,12 @@ function NFL_API(data) {
         new mapboxgl.Popup({ offset: 25 }).setHTML(
           `<div>
           <img src="${image}" alt="${arena}" width="200" height="100" class="arenaImg">
-          <div>The ${team}</div>
-          <div>Play in the ${arena}</div>
-          <div>Located at ${long} long and ${lat} lat</div>
-          <div> ${arena} has been around since <strong>${firstSeason}</strong> and hold ${capacity} seats.</div>
+          <div>The <strong>${team}</strong></div>
+          <div>Play in the <strong>${arena}</strong> located in <strong>${location}</strong></div>
+          <div>Located at <strong>[${lat}, ${long}]</strong></div>
+          <div> ${arena} has been around since <strong>${firstSeason}</strong> and holds <strong>${capacity}</strong> seats.</div>
+          <div>games are played on a <strong>${surface}</strong> field and has a <strong>${roof}</strong> Roof.</div>
+          <div><a href="https://en.wikipedia.org/wiki/${url}">More Info on Wiki</a></div>
         </div>`
         )
       )
@@ -166,14 +178,19 @@ fetch('/MLB', {
 
 function MLB_API(data) {
   _.each(data, (entry) => {
-    image = entry.Image;
-    capacity = entry.Capacity;
-    firstSeason = entry['opened'];
+    let image = entry.Image;
+    let capacity = entry.Capacity;
+    let firstSeason = entry['opened'];
 
-    team = entry.Team;
-    arena = entry.Arena;
-    long = entry['Coordinates'][1].toFixed(4);
-    lat = entry['Coordinates'][0].toFixed(4);
+    let team = entry.Team;
+    let arena = entry.Arena;
+    let long = entry['Coordinates'][1].toFixed(4);
+    let lat = entry['Coordinates'][0].toFixed(4);
+    let location = entry['Location'];
+    let surface = entry['Surface'];
+    let roof = entry['Roof Type'];
+
+    let url = arena.split(' ').join('_');
 
     var el = document.createElement('div');
     el.className = 'MLB_Marker hidden';
@@ -186,10 +203,12 @@ function MLB_API(data) {
         new mapboxgl.Popup({ offset: 25 }).setHTML(
           `<div>
           <img src="${image}" alt="${arena}" width="200" height="100" class="arenaImg">
-          <div>The ${team}</div>
-          <div>Play in the ${arena}</div>
-          <div>Located at ${long} long and ${lat} lat</div>
-          <div> ${arena} has been around since <strong>${firstSeason}</strong> and hold ${capacity} seats.</div>
+          <div>The <strong>${team}</strong></div>
+          <div>Play in the <strong>${arena}</strong> located in <strong>${location}</strong></div>
+          <div>Located at <strong>[${lat}, ${long}]</strong></div>
+          <div> <strong>${arena}</strong> has been around since <strong>${firstSeason}</strong> and holds <strong>${capacity}</strong> seats.</div>
+          <div>games are played on a <strong>${surface}</strong> field and has a <strong>${roof}</strong> Roof.</div>
+          <div><a href="https://en.wikipedia.org/wiki/${url}">More Info on Wiki</a></div>
         </div>`
         )
       )
