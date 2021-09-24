@@ -30,16 +30,6 @@
     "Coordinates": [39.682079, -104.962311]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BankAtlanticCenterCrop.JPG/250px-BankAtlanticCenterCrop.JPG",
-    "Team": "Florida Panthers",
-    "Arena": "BB&T Center",
-    "Location": "Sunrise",
-    "Capacity": "19,250",
-    "opened": "1998",
-    "First Season": "1998-99",
-    "Coordinates": [26.158400999999998, -80.32555350000001]
-  },
-  {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Centerbell.jpg/250px-Centerbell.jpg",
     "Team": "Montreal Canadiens",
     "Arena": "Bell Centre",
@@ -108,6 +98,16 @@
     "opened": "1994",
     "First Season": "1994-95",
     "Coordinates": [38.626713499999994, -90.2026245]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BankAtlanticCenterCrop.JPG/250px-BankAtlanticCenterCrop.JPG",
+    "Team": "Florida Panthers",
+    "Arena": "FLA Live Arena",
+    "Location": "Sunrise",
+    "Capacity": "19,250",
+    "opened": "1998",
+    "First Season": "1998-99",
+    "Coordinates": [26.143183, -80.237747]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Glendale-arena.jpg/250px-Glendale-arena.jpg",
