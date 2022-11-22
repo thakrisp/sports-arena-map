@@ -201,19 +201,7 @@
     "Surface": "Grass",
     "Roof Type": "Open",
     "Design": "Retro-modern",
-    "Coordinates": [38.8730102, -77.0074329]
-  },
-  {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/8/89/McAfee_Coliseum_%2815993646150%29.jpg/250px-McAfee_Coliseum_%2815993646150%29.jpg",
-    "Team": "Oakland Athletics",
-    "Arena": "Oakland Coliseum",
-    "Location": "Oakland, California",
-    "Capacity": "46,847",
-    "opened": "1966",
-    "Surface": "Grass",
-    "Roof Type": "Open",
-    "Design": "Multipurpose",
-    "Coordinates": [37.7515946, -122.2005458]
+    "Coordinates": [38.9071923, -77.0368707]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ATT_Sunset_Panorama.jpg/250px-ATT_Sunset_Panorama.jpg",
@@ -237,7 +225,7 @@
     "Surface": "Grass",
     "Roof Type": "Open",
     "Design": "Retro-classic",
-    "Coordinates": [39.2839354, -76.6215654]
+    "Coordinates": [39.28381940000001, -76.62167819999999]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Petco_Park_Padres_Game.jpg/250px-Petco_Park_Padres_Game.jpg",
@@ -249,7 +237,7 @@
     "Surface": "Grass",
     "Roof Type": "Open",
     "Design": "Retro-modern",
-    "Coordinates": [32.7076035, -117.157036]
+    "Coordinates": [32.7072693, -117.156745]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pittsburgh_Pirates_park_%28Unsplash%29.jpg/250px-Pittsburgh_Pirates_park_%28Unsplash%29.jpg",
@@ -265,7 +253,7 @@
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Progressive_Field%2C_June_2019_%285%29.jpg/250px-Progressive_Field%2C_June_2019_%285%29.jpg",
-    "Team": "Cleveland Indians",
+    "Team": "Cleveland Guardians",
     "Arena": "Progressive Field",
     "Location": "Cleveland, Ohio",
     "Capacity": "34,830",
@@ -274,6 +262,18 @@
     "Roof Type": "Open",
     "Design": "Retro-modern",
     "Coordinates": [41.496211, -81.6852289]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/8/89/McAfee_Coliseum_%2815993646150%29.jpg/250px-McAfee_Coliseum_%2815993646150%29.jpg",
+    "Team": "Oakland Athletics",
+    "Arena": "RingCentral Coliseum",
+    "Location": "Oakland, California",
+    "Capacity": "46,847",
+    "opened": "1966",
+    "Surface": "Grass",
+    "Roof Type": "Open",
+    "Design": "Multipurpose",
+    "Coordinates": [37.7515946, -122.2005458]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rogers_Centre_2017_from_upper_deck.jpg/250px-Rogers_Centre_2017_from_upper_deck.jpg",
@@ -285,7 +285,7 @@
     "Surface": "Artificial turf",
     "Roof Type": "Retractable",
     "Design": "Multipurpose",
-    "Coordinates": [43.64177979999999, -79.38914369999999]
+    "Coordinates": [51.253775, -85.3232139]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/9/93/SafecoFieldTop_%28cropped%29.jpg/250px-SafecoFieldTop_%28cropped%29.jpg",
@@ -297,7 +297,7 @@
     "Surface": "Grass",
     "Roof Type": "Retractable",
     "Design": "Retro-modern",
-    "Coordinates": [47.5914026, -122.3325085]
+    "Coordinates": [47.591349, -122.3325172]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Target_Field_April_2010.jpg/250px-Target_Field_April_2010.jpg",

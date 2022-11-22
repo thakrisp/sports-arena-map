@@ -27,22 +27,13 @@
     "Coordinates": [29.4270201, -98.43746519999999]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Denver_Pepsi_Center_1.jpg/250px-Denver_Pepsi_Center_1.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ball_Arena_exterior_2022.jpg/250px-Ball_Arena_exterior_2022.jpg",
     "Team": "Denver Nuggets",
     "Arena": "Ball Arena",
     "Location": "Denver, Colorado",
     "Capacity": "19,520",
     "opened": "1999",
     "Coordinates": [39.7486565, -105.0076028]
-  },
-  {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bankers_Life_Fieldhouse%2C_Indian%C3%A1polis%2C_Estados_Unidos%2C_2012-10-22%2C_DD_02.jpg/250px-Bankers_Life_Fieldhouse%2C_Indian%C3%A1polis%2C_Estados_Unidos%2C_2012-10-22%2C_DD_02.jpg",
-    "Team": "Indiana Pacers",
-    "Arena": "Bankers Life Fieldhouse",
-    "Location": "Indianapolis, Indiana",
-    "Capacity": "17,923",
-    "opened": "1999",
-    "Coordinates": [39.7640434, -86.1555367]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Barclays_Center_western_side.jpg/250px-Barclays_Center_western_side.jpg",
@@ -69,7 +60,16 @@
     "Location": "San Francisco, California",
     "Capacity": "18,064",
     "opened": "2019",
-    "Coordinates": [37.7680466, -122.387715]
+    "Coordinates": [37.7680183, -122.3878772]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Crypto.com_Arena_2022.jpg/250px-Crypto.com_Arena_2022.jpg",
+    "Team": "Los Angeles Clippers",
+    "Arena": "Crypto.com Arena",
+    "Location": "Los Angeles, California",
+    "Capacity": "19,068",
+    "opened": "1999",
+    "Coordinates": [34.0430175, -118.2672541]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FedExForum.jpg/250px-FedExForum.jpg",
@@ -81,7 +81,7 @@
     "Coordinates": [35.1381418, -90.0505864]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wisconsin_Entertainment_and_Sports_Center_-_Northeast_view.jpg/250px-Wisconsin_Entertainment_and_Sports_Center_-_Northeast_view.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Milwaukee_July_2022_022_%28Fiserv_Forum%29.jpg/250px-Milwaukee_July_2022_022_%28Fiserv_Forum%29.jpg",
     "Team": "Milwaukee Bucks",
     "Arena": "Fiserv Forum",
     "Location": "Milwaukee, Wisconsin",
@@ -90,11 +90,11 @@
     "Coordinates": [43.0450802, -87.9173862]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Talking_Stick_Resort_Arena.JPG/250px-Talking_Stick_Resort_Arena.JPG",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Footprint_Center_2022.jpg/250px-Footprint_Center_2022.jpg",
     "Team": "Phoenix Suns",
     "Arena": "Footprint Center",
     "Location": "Phoenix, Arizona",
-    "Capacity": "18,055",
+    "Capacity": "17,071",
     "opened": "1992",
     "Coordinates": [33.445737, -112.0712003]
   },
@@ -106,6 +106,15 @@
     "Capacity": "19,600",
     "opened": "1999",
     "Coordinates": [25.7814014, -80.18696899999999]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bankers_Life_Fieldhouse%2C_Indian%C3%A1polis%2C_Estados_Unidos%2C_2012-10-22%2C_DD_02.jpg/250px-Bankers_Life_Fieldhouse%2C_Indian%C3%A1polis%2C_Estados_Unidos%2C_2012-10-22%2C_DD_02.jpg",
+    "Team": "Indiana Pacers",
+    "Arena": "Gainbridge Fieldhouse",
+    "Location": "Indianapolis, Indiana",
+    "Capacity": "17,923",
+    "opened": "1999",
+    "Coordinates": [39.7640434, -86.1555367]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Golden_1_Center_2017.jpg/250px-Golden_1_Center_2017.jpg",
@@ -144,7 +153,7 @@
     "Coordinates": [45.53156509999999, -122.6668423]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chesapeake_Energy_Arena_2017.jpg/250px-Chesapeake_Energy_Arena_2017.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Paycom_Center.jpg/250px-Paycom_Center.jpg",
     "Team": "Oklahoma City Thunder",
     "Arena": "Paycom Center",
     "Location": "Oklahoma City, Oklahoma",
@@ -186,16 +195,7 @@
     "Location": "Charlotte, North Carolina",
     "Capacity": "19,077",
     "opened": "2005",
-    "Coordinates": [35.2251519, -80.8393911]
-  },
-  {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Staples_Center_2012.jpg/250px-Staples_Center_2012.jpg",
-    "Team": "Los Angeles Clippers",
-    "Arena": "Staples Center",
-    "Location": "Los Angeles, California",
-    "Capacity": "19,068",
-    "opened": "1999",
-    "Coordinates": [34.0430175, -118.2672541]
+    "Coordinates": [35.2251877, -80.8393372]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Philips_Arena.jpg/250px-Philips_Arena.jpg",
@@ -220,7 +220,7 @@
     "Team": "Boston Celtics",
     "Arena": "TD Garden",
     "Location": "Boston, Massachusetts",
-    "Capacity": "18,624",
+    "Capacity": "19,156",
     "opened": "1995",
     "Coordinates": [42.366198, -71.062146]
   },
@@ -252,7 +252,7 @@
     "Coordinates": [40.7682681, -111.9010874]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wells_Fargo_Center.jpg/250px-Wells_Fargo_Center.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg/250px-Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg",
     "Team": "Philadelphia 76ers",
     "Arena": "Wells Fargo Center",
     "Location": "Philadelphia, Pennsylvania",

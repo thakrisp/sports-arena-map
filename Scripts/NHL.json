@@ -1,6 +1,6 @@
 [
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/St_Pete_Times_Forum_At_Sunset.jpg/250px-St_Pete_Times_Forum_At_Sunset.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Amalie_Arena.jpg/250px-Amalie_Arena.jpg",
     "Team": "Tampa Bay Lightning",
     "Arena": "Amalie Arena",
     "Location": "Tampa, Florida",
@@ -20,7 +20,7 @@
     "Coordinates": [32.7903908, -96.8102547]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Denver_Pepsi_Center_1.jpg/250px-Denver_Pepsi_Center_1.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ball_Arena_exterior_2022.jpg/250px-Ball_Arena_exterior_2022.jpg",
     "Team": "Colorado Avalanche",
     "Arena": "Ball Arena",
     "Location": "Denver, Colorado",
@@ -34,7 +34,7 @@
     "Team": "Montreal Canadiens",
     "Arena": "Bell Centre",
     "Location": "Montreal, Quebec",
-    "Capacity": "21,302",
+    "Capacity": "21,105",
     "opened": "1996",
     "First Season": "1995-96",
     "Coordinates": [45.4960667, -73.5693153]
@@ -44,7 +44,7 @@
     "Team": "Nashville Predators",
     "Arena": "Bridgestone Arena",
     "Location": "Nashville, Tennessee",
-    "Capacity": "17,113",
+    "Capacity": "17,159",
     "opened": "1996",
     "First Season": "1998-99",
     "Coordinates": [36.1591736, -86.7784959]
@@ -57,14 +57,14 @@
     "Capacity": "15,321",
     "opened": "2004",
     "First Season": "2011-12",
-    "Coordinates": [49.8926443, -97.14376240000001]
+    "Coordinates": [49.89265289999999, -97.1434647]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Canadian_Tire_Centre_Ottawa.jpg/250px-Canadian_Tire_Centre_Ottawa.jpg",
     "Team": "Ottawa Senators",
     "Arena": "Canadian Tire Centre",
     "Location": "Ottawa, Ontario",
-    "Capacity": "17,373",
+    "Capacity": "18,652",
     "opened": "1996",
     "First Season": "1995-96",
     "Coordinates": [45.2969151, -75.926823]
@@ -80,14 +80,24 @@
     "Coordinates": [38.8981675, -77.02085679999999]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/KeyArena_%282890740573%29.jpg/250px-KeyArena_%282890740573%29.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Climate_Pledge_Arena_N.jpg/250px-Climate_Pledge_Arena_N.jpg",
     "Team": "Seattle Kraken",
     "Arena": "Climate Pledge Arena",
     "Location": "Seattle, Washington",
-    "Capacity": "17,100",
+    "Capacity": "17,151",
     "opened": "1962\u00a7",
     "First Season": "2021-22",
     "Coordinates": [47.62207129999999, -122.3540714]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Crypto.com_Arena_2022.jpg/250px-Crypto.com_Arena_2022.jpg",
+    "Team": "Los Angeles Kings",
+    "Arena": "Crypto.com Arena",
+    "Location": "Los Angeles, California",
+    "Capacity": "18,230",
+    "opened": "1999",
+    "First Season": "1999-2000",
+    "Coordinates": [34.0430175, -118.2672541]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Scottrade_Center_3Apr2005.jpg/250px-Scottrade_Center_3Apr2005.jpg",
@@ -110,17 +120,7 @@
     "Coordinates": [26.1584958, -80.3255204]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Glendale-arena.jpg/250px-Glendale-arena.jpg",
-    "Team": "Arizona Coyotes",
-    "Arena": "Gila River Arena",
-    "Location": "Glendale, Arizona",
-    "Capacity": "17,125",
-    "opened": "2003",
-    "First Season": "2003-04",
-    "Coordinates": [33.532074, -112.2612163]
-  },
-  {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Honda-ext-arch.JPG/250px-Honda-ext-arch.JPG",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Honda_center_2021.jpg/250px-Honda_center_2021.jpg",
     "Team": "Anaheim Ducks",
     "Arena": "Honda Center",
     "Location": "Anaheim, California",
@@ -158,6 +158,16 @@
     "opened": "1968",
     "First Season": "1967-68",
     "Coordinates": [40.7505045, -73.9934387]
+  },
+  {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mullett_Arena_South_Entrance.jpg/250px-Mullett_Arena_South_Entrance.jpg",
+    "Team": "Arizona Coyotes",
+    "Arena": "Mullett Arena",
+    "Location": "Tempe, Arizona",
+    "Capacity": "5,000",
+    "opened": "2022",
+    "First Season": "2022-23",
+    "Coordinates": [33.4266753, -111.9288829]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Columbus-ohio-nationwide-arena.jpg/250px-Columbus-ohio-nationwide-arena.jpg",
@@ -227,14 +237,14 @@
     "Capacity": "17,562",
     "opened": "1993",
     "First Season": "1993-94",
-    "Coordinates": [37.3327507, -121.9012447]
+    "Coordinates": [37.3329688, -121.9020006]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Scotiabank_Arena_-_2018_%28cropped%29.jpg/250px-Scotiabank_Arena_-_2018_%28cropped%29.jpg",
     "Team": "Toronto Maple Leafs",
     "Arena": "Scotiabank Arena",
     "Location": "Toronto, Ontario",
-    "Capacity": "18,819",
+    "Capacity": "18,800",
     "opened": "1999",
     "First Season": "1998-99",
     "Coordinates": [43.6434661, -79.3790989]
@@ -248,16 +258,6 @@
     "opened": "1983",
     "First Season": "1983-84",
     "Coordinates": [51.0374336, -114.0519341]
-  },
-  {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Staplescenter.jpg/250px-Staplescenter.jpg",
-    "Team": "Los Angeles Kings",
-    "Arena": "Staples Center",
-    "Location": "Los Angeles, California",
-    "Capacity": "18,230",
-    "opened": "1999",
-    "First Season": "1999-2000",
-    "Coordinates": [34.0430175, -118.2672541]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/TD_Garden_%28crop%29.JPG/250px-TD_Garden_%28crop%29.JPG",
@@ -277,17 +277,17 @@
     "Capacity": "17,368",
     "opened": "2016",
     "First Season": "2017-18",
-    "Coordinates": [36.1031582, -115.1787806]
+    "Coordinates": [36.102909, -115.1781463]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/41/UBS_Arena_20201210_155556_1.jpg/250px-UBS_Arena_20201210_155556_1.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Belmont_Park_td_%282021-12-19%29_017_-_UBS_Arena.jpg/250px-Belmont_Park_td_%282021-12-19%29_017_-_UBS_Arena.jpg",
     "Team": "New York Islanders",
     "Arena": "UBS Arena",
     "Location": "Elmont, New York",
     "Capacity": "17,113",
     "opened": "2021",
     "First Season": "2021-22",
-    "Coordinates": [40.7117992, -73.72619399999999]
+    "Coordinates": [40.71179009999999, -73.7260398]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/2/22/United_Center_1.jpg/250px-United_Center_1.jpg",
@@ -300,7 +300,7 @@
     "Coordinates": [41.8806908, -87.6741759]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wells_Fargo_Center.jpg/250px-Wells_Fargo_Center.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg/250px-Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg",
     "Team": "Philadelphia Flyers",
     "Arena": "Wells Fargo Center",
     "Location": "Philadelphia, Pennsylvania",

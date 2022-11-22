@@ -1,19 +1,30 @@
 [
   {
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Heinz_Field02.jpg/250px-Heinz_Field02.jpg",
+    "Team": "Pittsburgh Steelers",
+    "Arena": "Acrisure Stadium",
+    "Location": "Pittsburgh, Pennsylvania",
+    "Surface": "Kentucky bluegrass",
+    "Roof Type": "Open",
+    "Capacity": "68,400",
+    "opened": "2001",
+    "Coordinates": [40.4467648, -80.0157603]
+  },
+  {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Allegiant_Stadium.jpg/250px-Allegiant_Stadium.jpg",
     "Team": "Las Vegas Raiders",
     "Arena": "Allegiant Stadium",
     "Location": "Paradise, Nevada",
     "Surface": "Bermuda grass",
     "Roof Type": "Fixed",
-    "Capacity": "71,835",
+    "Capacity": "65,000",
     "opened": "2020",
     "Coordinates": [36.0908665, -115.1833222]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Chiefsgame.jpg/250px-Chiefsgame.jpg",
     "Team": "Kansas City Chiefs",
-    "Arena": "Arrowhead Stadium",
+    "Arena": "GEHA Field at Arrowhead Stadium",
     "Location": "Kansas City, Missouri",
     "Surface": "Bermuda grass",
     "Roof Type": "Open",
@@ -26,7 +37,7 @@
     "Team": "Dallas Cowboys",
     "Arena": "AT&T Stadium",
     "Location": "Arlington, Texas",
-    "Surface": "Hellas Matrix Turf",
+    "Surface": "Hellas Matrix ",
     "Roof Type": "Retractable",
     "Capacity": "80,000",
     "opened": "2009",
@@ -67,14 +78,14 @@
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/0/07/FedExField01.jpg/250px-FedExField01.jpg",
-    "Team": "Washington Football Team",
+    "Team": "Washington Commanders",
     "Arena": "FedExField",
     "Location": "Landover, Maryland",
     "Surface": "Bermuda grass",
     "Roof Type": "Open",
-    "Capacity": "82,000",
+    "Capacity": "67,717",
     "opened": "1997",
-    "Coordinates": [38.9076433, -76.8645454]
+    "Coordinates": [38.9077031, -76.8645064]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FirstEnergy_Stadium_field_2016.jpg/250px-FirstEnergy_Stadium_field_2016.jpg",
@@ -114,22 +125,11 @@
     "Team": "Miami Dolphins",
     "Arena": "Hard Rock Stadium",
     "Location": "Miami Gardens, Florida",
-    "Surface": "Platinum TE Paspalum",
+    "Surface": "Bermuda grass",
     "Roof Type": "Open",
     "Capacity": "65,326",
     "opened": "1987",
     "Coordinates": [25.9579665, -80.2388604]
-  },
-  {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Heinz_Field02.jpg/250px-Heinz_Field02.jpg",
-    "Team": "Pittsburgh Steelers",
-    "Arena": "Heinz Field",
-    "Location": "Pittsburgh, Pennsylvania",
-    "Surface": "Kentucky bluegrass",
-    "Roof Type": "Open",
-    "Capacity": "68,400",
-    "opened": "2001",
-    "Coordinates": [40.4467648, -80.0157603]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bills.jpg/250px-Bills.jpg",
@@ -147,7 +147,7 @@
     "Team": "Green Bay Packers",
     "Arena": "Lambeau Field",
     "Location": "Green Bay, Wisconsin",
-    "Surface": "Desso GrassMaster",
+    "Surface": "Kentucky bluegrass",
     "Roof Type": "Open",
     "Capacity": "81,441",
     "opened": "1957",
@@ -162,7 +162,7 @@
     "Roof Type": "Open",
     "Capacity": "68,500",
     "opened": "2014",
-    "Coordinates": [37.4031741, -121.9697129]
+    "Coordinates": [37.4033165, -121.9693774]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/2017-18_NFC_championship_game.jpg/250px-2017-18_NFC_championship_game.jpg",
@@ -173,7 +173,7 @@
     "Roof Type": "Open",
     "Capacity": "69,596",
     "opened": "2003",
-    "Coordinates": [39.9007734, -75.16744349999999]
+    "Coordinates": [39.9013695, -75.16752149999999]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LucasOilStadiumTheLuke.jpg/250px-LucasOilStadiumTheLuke.jpg",
@@ -195,7 +195,7 @@
     "Roof Type": "Open",
     "Capacity": "69,000",
     "opened": "2002",
-    "Coordinates": [47.5951518, -122.3316394]
+    "Coordinates": [47.5951518, -122.3316393]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/M%26T_Bank_Stadium_DoD.jpg/250px-M%26T_Bank_Stadium_DoD.jpg",
@@ -217,14 +217,14 @@
     "Roof Type": "Retractable",
     "Capacity": "71,000",
     "opened": "2017",
-    "Coordinates": [33.7555194, -84.4008389]
+    "Coordinates": [33.748752, -84.38768449999999]
   },
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/4/46/New_Meadowlands_Stadium_Mezz_Corner.jpg/250px-New_Meadowlands_Stadium_Mezz_Corner.jpg",
     "Team": "New York Giants and New York Jets",
     "Arena": "MetLife Stadium",
     "Location": "East Rutherford, New Jersey",
-    "Surface": "UBU Sports Speed Series S5-M Synthetic Turf",
+    "Surface": "UBU Speed Series S5-M Synthetic Turf",
     "Roof Type": "Open",
     "Capacity": "82,500",
     "opened": "2010",
@@ -255,7 +255,7 @@
   {
     "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Paul_Brown_Stadium_interior_2017.jpg/250px-Paul_Brown_Stadium_interior_2017.jpg",
     "Team": "Cincinnati Bengals",
-    "Arena": "Paul Brown Stadium",
+    "Arena": "Paycor Stadium",
     "Location": "Cincinnati, Ohio",
     "Surface": "UBU Speed Series S5-M Synthetic Turf",
     "Roof Type": "Open",
@@ -275,7 +275,7 @@
     "Coordinates": [27.9758691, -82.5033344]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/SoFi_Stadium.jpg/250px-SoFi_Stadium.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/SoFi_Stadium_interior_2021.jpg/250px-SoFi_Stadium_interior_2021.jpg",
     "Team": "Los Angeles Rams and Los Angeles Chargers",
     "Arena": "SoFi Stadium",
     "Location": "Inglewood, California",
@@ -290,14 +290,14 @@
     "Team": "Chicago Bears",
     "Arena": "Soldier Field",
     "Location": "Chicago, Illinois",
-    "Surface": "Kentucky bluegrass",
+    "Surface": "Bermuda grass",
     "Roof Type": "Open",
     "Capacity": "61,500",
     "opened": "1924",
     "Coordinates": [41.8623132, -87.6166884]
   },
   {
-    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/University_of_Phoenix_Stadium_no_field.jpg/250px-University_of_Phoenix_Stadium_no_field.jpg",
+    "Image": "HTTPS://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Phoenix_-_State_Farm_Stadium_-_IMG_8244_%2851576996287%29.jpg/250px-Phoenix_-_State_Farm_Stadium_-_IMG_8244_%2851576996287%29.jpg",
     "Team": "Arizona Cardinals",
     "Arena": "State Farm Stadium",
     "Location": "Glendale, Arizona",
