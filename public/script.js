@@ -1,24 +1,24 @@
-$('#NHL_Toggle').click(function (e) {
-  $('.NHL_Marker').toggleClass('hidden', !this.checked);
+$("#NHL_Toggle").click(function (_e) {
+  $(".NHL_Marker").toggleClass("hidden", !this.checked);
 });
 
-$('#NBA_Toggle').click(function (e) {
-  $('.NBA_Marker').toggleClass('hidden', !this.checked);
+$("#NBA_Toggle").click(function (_e) {
+  $(".NBA_Marker").toggleClass("hidden", !this.checked);
 });
 
-$('#NFL_Toggle').click(function (e) {
-  $('.NFL_Marker').toggleClass('hidden', !this.checked);
+$("#NFL_Toggle").click(function (_e) {
+  $(".NFL_Marker").toggleClass("hidden", !this.checked);
 });
 
-$('#MLB_Toggle').click(function (e) {
-  $('.MLB_Marker').toggleClass('hidden', !this.checked);
+$("#MLB_Toggle").click(function (_e) {
+  $(".MLB_Marker").toggleClass("hidden", !this.checked);
 });
 
-fetch('/NHL', {
-  method: 'GET',
+fetch("/NHL", {
+  method: "GET",
   headers: {
-    'Content-Type': 'application/json',
-    Accept: 'application/json',
+    "Content-Type": "application/json",
+    Accept: "application/json",
   },
 })
   .then((res) => res.json())
@@ -30,18 +30,18 @@ function NHL_API(data) {
   _.each(data, (entry) => {
     let image = entry.Image;
     let capacity = entry.Capacity;
-    let firstSeason = entry['First Season'];
+    let firstSeason = entry["First Season"];
 
     let team = entry.Team;
     let arena = entry.Arena;
-    let long = entry['Coordinates'][1].toFixed(4);
-    let lat = entry['Coordinates'][0].toFixed(4);
-    let location = entry['Location'];
+    let long = entry["Coordinates"][1].toFixed(4);
+    let lat = entry["Coordinates"][0].toFixed(4);
+    let location = entry["Location"];
 
-    let url = arena.split(' ').join('_');
+    let url = arena.split(" ").join("_");
 
-    var el = document.createElement('div');
-    el.className = 'NHL_Marker';
+    var el = document.createElement("div");
+    el.className = "NHL_Marker";
     el.innerHTML =
       '<svg viewBox="0 0 20 20" transform="rotate(-90)" fill="currentColor" class="location-marker w-6 h-6"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>';
 
@@ -63,11 +63,11 @@ function NHL_API(data) {
   });
 }
 
-fetch('/NBA', {
-  method: 'GET',
+fetch("/NBA", {
+  method: "GET",
   headers: {
-    'Content-Type': 'application/json',
-    Accept: 'application/json',
+    "Content-Type": "application/json",
+    Accept: "application/json",
   },
 })
   .then((res) => res.json())
@@ -79,18 +79,18 @@ function NBA_API(data) {
   _.each(data, (entry) => {
     let image = entry.Image;
     let capacity = entry.Capacity;
-    let firstSeason = entry['opened'];
+    let firstSeason = entry["opened"];
 
     let team = entry.Team;
     let arena = entry.Arena;
-    let long = entry['Coordinates'][1].toFixed(4);
-    let lat = entry['Coordinates'][0].toFixed(4);
-    let location = entry['Location'];
+    let long = entry["Coordinates"][1].toFixed(4);
+    let lat = entry["Coordinates"][0].toFixed(4);
+    let location = entry["Location"];
 
-    let url = arena.split(' ').join('_');
+    let url = arena.split(" ").join("_");
 
-    var el = document.createElement('div');
-    el.className = 'NBA_Marker hidden';
+    var el = document.createElement("div");
+    el.className = "NBA_Marker hidden";
     el.innerHTML =
       '<svg viewBox="0 0 20 20" transform="rotate(90)" fill="currentColor" class="location-marker w-6 h-6"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>';
 
@@ -112,11 +112,11 @@ function NBA_API(data) {
   });
 }
 
-fetch('/NFL', {
-  method: 'GET',
+fetch("/NFL", {
+  method: "GET",
   headers: {
-    'Content-Type': 'application/json',
-    Accept: 'application/json',
+    "Content-Type": "application/json",
+    Accept: "application/json",
   },
 })
   .then((res) => res.json())
@@ -128,20 +128,20 @@ function NFL_API(data) {
   _.each(data, (entry) => {
     let image = entry.Image;
     let capacity = entry.Capacity;
-    let firstSeason = entry['opened'];
+    let firstSeason = entry["opened"];
 
     let team = entry.Team;
     let arena = entry.Arena;
-    let long = entry['Coordinates'][1].toFixed(4);
-    let lat = entry['Coordinates'][0].toFixed(4);
-    let location = entry['Location'];
-    let surface = entry['Surface'];
-    let roof = entry['Roof Type']; //TYPO ON THIS LINE, FIXED IN SCRIPT NEEDS TO BE RERUN
+    let long = entry["Coordinates"][1].toFixed(4);
+    let lat = entry["Coordinates"][0].toFixed(4);
+    let location = entry["Location"];
+    let surface = entry["Surface"];
+    let roof = entry["Roof Type"]; //TYPO ON THIS LINE, FIXED IN SCRIPT NEEDS TO BE RERUN
 
-    let url = arena.split(' ').join('_');
+    let url = arena.split(" ").join("_");
 
-    var el = document.createElement('div');
-    el.className = 'NFL_Marker hidden';
+    var el = document.createElement("div");
+    el.className = "NFL_Marker hidden";
     el.innerHTML =
       '<svg viewBox="0 0 20 20" fill="currentColor" class="location-marker w-6 h-6"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>';
 
@@ -164,11 +164,11 @@ function NFL_API(data) {
   });
 }
 
-fetch('/MLB', {
-  method: 'GET',
+fetch("/MLB", {
+  method: "GET",
   headers: {
-    'Content-Type': 'application/json',
-    Accept: 'application/json',
+    "Content-Type": "application/json",
+    Accept: "application/json",
   },
 })
   .then((res) => res.json())
@@ -180,20 +180,20 @@ function MLB_API(data) {
   _.each(data, (entry) => {
     let image = entry.Image;
     let capacity = entry.Capacity;
-    let firstSeason = entry['opened'];
+    let firstSeason = entry["opened"];
 
     let team = entry.Team;
     let arena = entry.Arena;
-    let long = entry['Coordinates'][1].toFixed(4);
-    let lat = entry['Coordinates'][0].toFixed(4);
-    let location = entry['Location'];
-    let surface = entry['Surface'];
-    let roof = entry['Roof Type'];
+    let long = entry["Coordinates"][1].toFixed(4);
+    let lat = entry["Coordinates"][0].toFixed(4);
+    let location = entry["Location"];
+    let surface = entry["Surface"];
+    let roof = entry["Roof Type"];
 
-    let url = arena.split(' ').join('_');
+    let url = arena.split(" ").join("_");
 
-    var el = document.createElement('div');
-    el.className = 'MLB_Marker hidden';
+    var el = document.createElement("div");
+    el.className = "MLB_Marker hidden";
     el.innerHTML =
       '<svg viewBox="0 0 20 20" transform="rotate(180)" fill="currentColor" class="location-marker w-6 h-6"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>';
 
